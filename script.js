@@ -81,7 +81,7 @@ function draw() {
    
   } else{
     background(100,100);
-
+    // Butterfly // Inspired from https://editor.p5js.org/pan8915/sketches/r1FHbXCh
     background(100,100);
     strokeWeight(3)
     line(0,0,-10,-35)
